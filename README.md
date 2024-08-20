@@ -1,4 +1,4 @@
-Hi, I'm Michael, currently contributing to the custom query engine called <b>SaolaDB</b> at Celonis. This database system is the backbone of the Process Query Language (PQL), a domain-specific language tailored towards a special process data model and designed for business users ([Learn more](https://docs.celonis.com/en/pql---process-query-language.html)).
+Hi, I'm Michael, currently contributing to an in-house query engine called <b>SaolaDB</b> at Celonis. This database system is the backbone of the Process Query Language (PQL), a domain-specific language tailored towards a special process data model and designed for business users ([Learn more](https://docs.celonis.com/en/pql---process-query-language.html)).
 
 - 🔎 If you want to learn how to develop your own Selenium bot for web scraping in Java, check out the [Tennis Booking Bot](https://github.com/michaelkennecke/tennis-booking-bot) to get some inspiration.
 - 🎓 If you want to learn new vocabulary, take a look at [Deep Vocab](https://github.com/michaelkennecke/deep-vocab).
